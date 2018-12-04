@@ -4,6 +4,9 @@
 ## Install
 > pip install -r requirements.txt
 
+## Usage
+> python dc_finder.py
+
 ## License
 
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
